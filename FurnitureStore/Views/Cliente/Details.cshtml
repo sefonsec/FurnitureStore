@@ -1,0 +1,31 @@
+﻿@using Microsoft.SqlServer.Server
+@model FurnitureStore.Models.Cliente
+@{
+    Layout = "~/Views/Shared/_LayoutMenu.cshtml";
+}
+
+<h2>Detalhes</h2>
+<fieldset>
+    <legend>Cliente</legend>
+
+    <div class="display-label"><strong>Data de Cadastro: </strong>@Html.DisplayFor(model => model.dataCadastro)</div>   
+    <div class="display-label"><strong>Nome: </strong>@Html.DisplayFor(model => model.nome)</div>
+    <div class="display-label"><strong>RG: </strong>@Html.DisplayFor(model => model.rg)</div>           
+    <div class="display-label"><strong>CPF: </strong>@Html.DisplayFor(model => model.cpf)</div>
+    <div class="display-label"><strong>Data de Nascimento: </strong>@Html.DisplayFor(model => model.dataNasc)</div>    
+    <div class="display-label"><strong>Endereço: </strong>@Html.DisplayFor(model => model.endereco)</div>
+    <div class="display-label"><strong>Número: </strong>@Html.DisplayFor(model => model.numero)</div>    
+    <div class="display-label"><strong>Complemento: </strong>@Html.DisplayFor(model => model.complemento)</div>
+    <div class="display-label"><strong>Bairro: </strong>@Html.DisplayFor(model => model.bairro)</div>
+    <div class="display-label"><strong>Cidade: </strong>@Html.DisplayFor(model => model.cidade)</div>
+    <div class="display-label"><strong>UF: </strong>@Html.DisplayFor(model => model.uf)</div>
+    <div class="display-label"><strong>Cep: </strong>@Html.DisplayFor(model => model.cep)</div>        
+    <div class="display-label"><strong>Banco: </strong>@Html.DisplayFor(model => model.nomeBanco)</div>
+    <div class="display-label"><strong>Agência: </strong>@Html.DisplayFor(model => model.agencia)</div>
+    <div class="display-label"><strong>Conta Corrente: </strong>@Html.DisplayFor(model => model.contaCorrente)</div>
+    <div class="display-label"><strong>Cliente Desde: </strong>@Html.DisplayFor(model => model.dataClienteDesde)</div>
+</fieldset>
+<p>
+    @Html.ActionLink("Editar", "Edit", new { id=Model.Id }) |
+    @Html.ActionLink("Voltar", "Index")
+</p>

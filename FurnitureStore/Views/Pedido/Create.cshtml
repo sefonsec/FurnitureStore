@@ -1,0 +1,104 @@
+﻿@model FurnitureStore.Models.Pedido
+
+@{
+    Layout = "~/Views/Shared/_LayoutMenu.cshtml";
+}
+
+<h2>Cadastrar</h2>
+
+@Scripts.Render("~/Scripts/jquery.validate.min.js")
+@Scripts.Render("~/Scripts/jquery.validate.unobtrusive.min.js")
+
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Pedido</legend>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.vendedorID, "Vendedor")
+        </div>
+        <div class="editor-field">
+            @Html.DropDownList("vendedorID", String.Empty)
+            @Html.ValidationMessageFor(model => model.vendedorID)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.clienteID, "Cliente")
+        </div>
+        <div class="editor-field">
+            @Html.DropDownList("clienteID", String.Empty)
+            @Html.ValidationMessageFor(model => model.clienteID)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.pagamentoID, "Pagamento")
+        </div>
+        <div class="editor-field">
+            @Html.DropDownList("pagamentoID", String.Empty)
+            @Html.ValidationMessageFor(model => model.pagamentoID)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.parcelaID, "Parcela")
+        </div>
+        <div class="editor-field">
+            @Html.DropDownList("parcelaID", String.Empty)
+            @Html.ValidationMessageFor(model => model.parcelaID)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.dataPedido)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.dataPedido)
+            @Html.ValidationMessageFor(model => model.dataPedido)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.entrada)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.entrada)
+            @Html.ValidationMessageFor(model => model.entrada)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.paraTodoDia)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.paraTodoDia)
+            @Html.ValidationMessageFor(model => model.paraTodoDia)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.prazoEntrega)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.prazoEntrega)
+            @Html.ValidationMessageFor(model => model.prazoEntrega)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.idTipoPedido)
+        </div>
+        <div class="editor-field">
+            @Html.DropDownListFor(model => model.tipoPedido, new SelectList(FurnitureStore.Models.Pedido.listTipoPedido, "tipo", "descricao"))
+            @Html.ValidationMessageFor(model => model.idTipoPedido)
+        </div> 
+
+        <p>
+            <input type="submit" value="Salvar" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Voltar", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/bundles/validations_pt-br")
+}

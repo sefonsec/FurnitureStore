@@ -1,0 +1,17 @@
+﻿@model FurnitureStore.Models.Parcela
+
+@{
+    Layout = "~/Views/Shared/_LayoutMenu.cshtml";
+}
+
+<h2>Detalhes</h2>
+
+<fieldset>
+    <legend>Parcela</legend>
+    
+    <div class="display-label"><strong>Número de Parcelas: </strong>@Html.DisplayFor(model => model.numeroParcela)</div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

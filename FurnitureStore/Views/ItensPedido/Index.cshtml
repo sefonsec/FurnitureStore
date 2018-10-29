@@ -1,0 +1,52 @@
+﻿@model IEnumerable<FurnitureStore.Models.ItensPedido>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Lista de Produtos</h2>
+
+<table>
+    <tr>
+        <th>
+            Pedido
+        </th>
+        <th>
+            Produto
+        </th>
+        <th>
+            Qtde
+        </th>
+        <th>
+            Valor Total
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pedido.id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Produto.descricao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.qtdeProduto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.valorTotalProduto)
+            </td>
+            <td>
+                @Html.ActionLink("Editar", "Edit", new { id=item.id }) |
+                @Html.ActionLink("Detalhes", "Details", new { id=item.id }) |
+                @Html.ActionLink("Excluir", "Delete", new { id=item.id })
+            </td>
+        </tr>
+    }
+    
+    <p>
+        @Html.ActionLink("Voltar para o Pedido", "Details", "Pedido", new { id = ViewData["IdPedido"] }, null)
+    </p>    
+
+</table>

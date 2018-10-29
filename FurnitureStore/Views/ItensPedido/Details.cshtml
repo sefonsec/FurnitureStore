@@ -1,0 +1,20 @@
+﻿@model FurnitureStore.Models.ItensPedido
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Detalhes</h2>
+
+<fieldset>
+    <legend>Item do Pedido</legend>
+    
+    <div class="display-label"><strong>Pedido: </strong>@Html.DisplayFor(model => model.Pedido.id)</div>
+    <div class="display-label"><strong>Produto: </strong>@Html.DisplayFor(model => model.Produto.descricao)</div>
+    <div class="display-label"><strong>Qtde: </strong>@Html.DisplayFor(model => model.qtdeProduto)</div>
+    <div class="display-label"><strong>Valor Total: </strong>@Html.DisplayFor(model => model.valorTotalProduto)</div>
+</fieldset>
+<p>
+    @Html.ActionLink("Editar", "Edit", new { id=Model.id }) |
+    @Html.ActionLink("Voltar", "Index", new { id = Model.pedidoID })
+</p>

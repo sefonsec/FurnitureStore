@@ -1,0 +1,66 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Views/d:Pedido/f:Details.cshtml" caret="76" fromTop="4" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Views/d:ItensPedido/f:Delete.cshtml" caret="0" fromTop="0" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Models/f:ItensPedido.cs" caret="253" fromTop="9" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Models/f:Pedido.cs" caret="1423" fromTop="10" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:App_Start/f:WebApiConfig.cs" caret="0" fromTop="0" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Models/f:DataContext.cs" caret="249" fromTop="10" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Views/d:ItensPedido/f:Edit.cshtml" caret="0" fromTop="0" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Views/d:ItensPedido/f:Index.cshtml" caret="0" fromTop="0" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Views/d:ItensPedido/f:Details.cshtml" caret="0" fromTop="0" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/f:Global.asax.cs" caret="889" fromTop="26" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Models/f:Produto.cs" caret="721" fromTop="21" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Views/d:ItensPedido/f:Create.cshtml" caret="0" fromTop="0" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Views/d:Shared/f:_LoginPartial.cshtml" caret="0" fromTop="0" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Views/d:Home/f:Index.cshtml" caret="0" fromTop="0" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Views/d:Cliente/f:Details.cshtml" caret="0" fromTop="0" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Views/d:Pagamento/f:Index.cshtml" caret="212" fromTop="13" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Controllers/f:ParcelaController.cs" caret="833" fromTop="5" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Views/d:Parcela/f:Create.cshtml" caret="810" fromTop="18" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Views/d:Cliente/f:Create.cshtml" caret="1702" fromTop="63" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Content/f:Site.css" caret="113" fromTop="0" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Views/d:Shared/f:_Layout.cshtml" caret="1620" fromTop="20" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Controllers/f:ProdutoController.cs" caret="391" fromTop="8" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Views/d:Produto/f:Index.cshtml" caret="90" fromTop="5" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Views/f:_ViewStart.cshtml" caret="8" fromTop="1" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Controllers/f:ItensPedidoController.cs" caret="486" fromTop="20" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Views/d:Pedido/f:Create.cshtml" caret="572" fromTop="22" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Views/d:Pedido/f:Index.cshtml" caret="354" fromTop="19" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Views/d:Cliente/f:Index.cshtml" caret="0" fromTop="0" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Controllers/f:ClienteController.cs" caret="903" fromTop="10" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Controllers/f:PedidoController.cs" caret="1098" fromTop="19" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Views/d:Usuario/f:Create.cshtml" caret="1427" fromTop="28" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Views/d:Usuario/f:Delete.cshtml" caret="450" fromTop="14" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Views/d:Usuario/f:Edit.cshtml" caret="1460" fromTop="24" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Views/d:Produto/f:Edit.cshtml" caret="1132" fromTop="25" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Views/d:Usuario/f:Index.cshtml" caret="146" fromTop="9" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Views/d:ItensPedido/f:Edit.cshtml" caret="217" fromTop="9" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Views/d:Pedido/f:Delete.cshtml" caret="129" fromTop="8" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Views/d:Pedido/f:Edit.cshtml" caret="2973" fromTop="10" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Models/f:DataContextInitializer.cs" caret="158" fromTop="6" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Models/f:DataContext.cs" caret="249" fromTop="10" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/f:Web.config" caret="638" fromTop="12" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Models/f:Cliente.cs" caret="1706" fromTop="12" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Views/d:Cliente/f:Create.cshtml" caret="544" fromTop="9" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Views/d:Cliente/f:Delete.cshtml" caret="447" fromTop="19" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Views/d:Cliente/f:Edit.cshtml" caret="532" fromTop="23" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Views/d:Produto/f:Create.cshtml" caret="103" fromTop="6" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Views/d:Pedido/f:Create.cshtml" caret="3133" fromTop="15" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Views/d:Pedido/f:Details.cshtml" caret="137" fromTop="6" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Views/d:ItensPedido/f:Index.cshtml" caret="126" fromTop="8" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/f:Global.asax.cs" caret="889" fromTop="26" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Views/d:ItensPedido/f:Create.cshtml" caret="1126" fromTop="17" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Controllers/f:ItensPedidoController.cs" caret="4079" fromTop="17" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Views/d:Home/f:Index.cshtml" caret="0" fromTop="0" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Views/d:Shared/f:_Layout.cshtml" caret="1620" fromTop="20" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Views/d:Cliente/f:Index.cshtml" caret="1544" fromTop="27" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Views/d:Produto/f:Index.cshtml" caret="449" fromTop="21" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Controllers/f:ProdutoController.cs" caret="899" fromTop="24" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Controllers/f:ClienteController.cs" caret="828" fromTop="8" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Views/d:Pedido/f:Index.cshtml" caret="619" fromTop="27" />
+    <File id="CBAD022C-B00E-451A-B4C4-C6EC8475D581/d:Controllers/f:PedidoController.cs" caret="1098" fromTop="19" />
+  </RecentEdits>
+</RecentFiles>

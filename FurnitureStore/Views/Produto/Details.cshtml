@@ -1,0 +1,70 @@
+﻿@model FurnitureStore.Models.Produto   
+          
+@{
+    Layout = "~/Views/Shared/_LayoutMenu.cshtml";
+}
+
+<h2>Detalhes</h2>
+
+<script src="~/scripts/jquery-1.8.2.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+
+    $(document).ready(function () {
+        $("#divFileUpload").mouseenter(function () {
+            imageStatusOnHover();
+        }).mouseleave(function () {
+            imageStatusOffHover();
+        });
+    })
+
+    function imageStatusOnHover() {
+        if ($("#file1").val() != "") {
+            var fileURL = $("#file1").val().replace(/\\/g, "\\\\");
+            showImagemTooltip(fileURL);
+        }
+    }
+
+    function imageStatusOffHover() {
+        $('#divImageTooltip').hide();
+    }
+
+    function showImagemTooltip(file) {
+        $('#divImageTooltip').css({
+            "backgroundImage": "url(" + file + ")",
+            "background-repeat": "no-repeat",
+            "background-size": "contain",
+            "background-position": "center",
+            "background-color": "white"
+        });
+
+        $('#divImageTooltip').show();
+        $("#divFileUpload").mousemove(function (event) {
+            $('#divImageTooltip').css({ 'top': event.pageY, 'left': event.pageX });
+        });
+    }
+</script>
+
+<fieldset>
+    <legend>Produto</legend>
+
+    <div class="display-label"><strong>Descrição:</strong> @Html.DisplayFor(model => model.descricao)</div>
+    <div class="display-label"><strong>Qtde:</strong> @Html.DisplayFor(model => model.qtde)</div>
+    <div class="display-label"><strong>Tipo:</strong> @Html.DisplayFor(model => model.descricaoTipoUnidade)</div>
+    <div class="display-label"><strong>Valor Unitário:</strong> @Html.DisplayFor(model => model.valorUnitario)</div> 
+    
+    <div>
+        <p>            
+            @Html.ActionLink("Exibir Fotos do Produto", "Index", "Foto", new { id = Model.id }, null)
+        </p>
+    </div>           
+</fieldset>
+
+<p>
+    @Html.ActionLink("Editar", "Edit", new { id=Model.id }) |
+    @Html.ActionLink("Voltar", "Index")
+</p>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

@@ -1,0 +1,73 @@
+﻿@model IEnumerable<FurnitureStore.Models.Produto>
+
+@{
+    Layout = "~/Views/Shared/_LayoutMenu.cshtml";
+}
+
+<h2>Produto</h2>
+
+<p>
+    @Html.ActionLink("Cadastrar", "Create")
+</p>
+
+<form action="@Url.Action("Index")" method="POST">
+    <table>
+        <tr>
+            <th>
+                Descrição
+            </th>
+        </tr>    
+        <tr>
+            <th>
+                @Html.TextBox("buscarDescricao", string.Empty, new {style = "width: 500px;"})
+            </th>
+            <th>
+                <input type="submit" name="Buscar" value="Buscar"/>
+            </th>
+            <th>
+                <input type="submit" name="Limpar" value="Limpar"/>
+            </th>
+        </tr>
+    </table> 
+</form> 
+
+<table>
+    <tr>
+        <th>
+            Descrição
+        </th>
+        <th>
+            Qtde
+        </th>
+        <th>
+            Tipo
+        </th>
+        <th>
+            Valor Unitário
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.descricao)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.qtde)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.descricaoTipoUnidade)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.valorUnitario)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { id=item.id }) |
+            @Html.ActionLink("Detalhes", "Details", new { id=item.id }) |
+            @Html.ActionLink("Excluir", "Delete", new { id=item.id })
+        </td>
+    </tr>
+}
+
+</table>

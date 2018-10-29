@@ -1,0 +1,21 @@
+﻿@model FurnitureStore.Models.Parcela
+
+@{
+    Layout = "~/Views/Shared/_LayoutMenu.cshtml";
+}
+
+<h2>Exclusão</h2>
+
+<h3>Deseja Excluir esta Parcela?</h3>
+<fieldset>
+    <legend>Parcela</legend>
+    
+    <div class="display-label"><strong>Número de Parcela: </strong>@Html.DisplayFor(model => model.numeroParcela)</div>
+</fieldset>
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    <p>
+        <input type="submit" value="Delete" /> |
+        @Html.ActionLink("Voltar", "Index")
+    </p>
+}

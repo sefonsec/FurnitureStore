@@ -1,0 +1,34 @@
+﻿@model FurnitureStore.Models.Pedido
+
+@{
+    Layout = "~/Views/Shared/_LayoutMenu.cshtml";
+}
+
+<p>    
+    @Html.ActionLink("Gerar relatório em PDF", "ExportarRelatorio", new { id=Model.id })
+</p>
+
+<h2>Detalhes do Pedido @Html.DisplayFor(model => model.id)</h2>
+<br/>
+<fieldset>
+    <legend>Pedido</legend>
+    <div class="display-label"><strong>Vendedor: </strong>@Html.DisplayFor(model => model.Vendedor.nome)</div>
+    <div class="display-label"><strong>Cliente: </strong>@Html.DisplayFor(model => model.Cliente.nome)</div>
+    <div class="display-label"><strong>Pagamento: </strong>@Html.DisplayFor(model => model.Pagamento.formaPagamento)</div>
+    <div class="display-label"><strong>Parcela: </strong>@Html.DisplayFor(model => model.Parcela.numeroParcela)</div>
+    <div class="display-label"><strong>Data: </strong>@Html.DisplayFor(model => model.dataPedido)</div>
+    <div class="display-label"><strong>Entrada: </strong> @Html.DisplayFor(model => model.entrada)</div>
+    <div class="display-label"><strong>Para todo dia: </strong>@Html.DisplayFor(model => model.paraTodoDia)</div>
+    <div class="display-label"><strong>Prazo de entrega: </strong>@Html.DisplayFor(model => model.prazoEntrega)</div>
+    <div class="display-label"><strong>Tipo de Pedido: </strong>@Html.DisplayFor(model => model.descricaoTipoPedido)</div>
+    <div>
+        <p>           
+            @Html.ActionLink("Cadastrar Itens do Pedido", "Create", "ItensPedido", new { id =  Model.id }, null)  |   
+            @Html.ActionLink("Listar Itens do Pedido", "Index", "ItensPedido", new { id =  Model.id }, null)                               
+        </p>
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Editar", "Edit", new { id=Model.id }) |
+    @Html.ActionLink("Voltar", "Index")
+</p>

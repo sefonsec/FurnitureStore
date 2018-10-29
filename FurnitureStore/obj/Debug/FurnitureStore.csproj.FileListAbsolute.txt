@@ -1,0 +1,434 @@
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\FurnitureStore.dll.config
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\FurnitureStore.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\FurnitureStore.pdb
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\Antlr3.Runtime.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.AspNet.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.Core.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.OAuth.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.OpenId.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\EntityFramework.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\Microsoft.Data.Edm.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\Microsoft.Data.OData.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\Microsoft.Web.Infrastructure.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\Newtonsoft.Json.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Net.Http.Formatting.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Spatial.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.Helpers.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.Http.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.Http.OData.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.Http.WebHost.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.Mvc.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.Optimization.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.Razor.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.WebPages.Deployment.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.WebPages.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.WebPages.Razor.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\WebGrease.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\WebMatrix.Data.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\WebMatrix.WebData.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\EntityFramework.xml
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\Newtonsoft.Json.xml
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Net.Http.Formatting.xml
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.Helpers.xml
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.Http.xml
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.Http.WebHost.xml
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.Mvc.xml
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.Razor.xml
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.WebPages.xml
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.WebPages.Deployment.xml
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.WebPages.Razor.xml
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\WebMatrix.Data.xml
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\WebMatrix.WebData.xml
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.AspNet.xml
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.Core.xml
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.OAuth.xml
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.OpenId.xml
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.Http.OData.xml
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\Microsoft.Data.Edm.xml
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\Microsoft.Data.OData.xml
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Spatial.xml
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\de\Microsoft.Data.OData.resources.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\es\Microsoft.Data.OData.resources.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\it\Microsoft.Data.OData.resources.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\de\System.Spatial.resources.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\es\System.Spatial.resources.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\fr\System.Spatial.resources.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\it\System.Spatial.resources.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\ja\System.Spatial.resources.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\ko\System.Spatial.resources.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\ru\System.Spatial.resources.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\zh-Hans\System.Spatial.resources.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\zh-Hant\System.Spatial.resources.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\obj\Debug\FurnitureStore.csprojResolveAssemblyReference.cache
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\obj\Debug\FurnitureStore.dll
+D:\Sistemas .NET\FurnitureStore\FurnitureStore\obj\Debug\FurnitureStore.pdb
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\FurnitureStore.dll.config
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\FurnitureStore.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\FurnitureStore.pdb
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\Antlr3.Runtime.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.AspNet.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.Core.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.OAuth.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.OpenId.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\EntityFramework.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\Microsoft.Data.Edm.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\Microsoft.Data.OData.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\Newtonsoft.Json.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Net.Http.Formatting.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Spatial.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.Helpers.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.Http.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.Http.OData.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.Http.WebHost.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.Mvc.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.Optimization.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.Razor.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.WebPages.Deployment.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.WebPages.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.WebPages.Razor.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\WebGrease.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\WebMatrix.Data.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\WebMatrix.WebData.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\EntityFramework.xml
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\Newtonsoft.Json.xml
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Net.Http.Formatting.xml
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.Helpers.xml
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.Http.xml
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.Http.WebHost.xml
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.Mvc.xml
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.Razor.xml
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.WebPages.xml
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.WebPages.Deployment.xml
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.WebPages.Razor.xml
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\WebMatrix.Data.xml
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\WebMatrix.WebData.xml
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.AspNet.xml
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.Core.xml
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.OAuth.xml
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.OpenId.xml
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.Http.OData.xml
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\Microsoft.Data.Edm.xml
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\Microsoft.Data.OData.xml
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Spatial.xml
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\de\Microsoft.Data.OData.resources.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\es\Microsoft.Data.OData.resources.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\it\Microsoft.Data.OData.resources.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\de\System.Spatial.resources.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\es\System.Spatial.resources.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\fr\System.Spatial.resources.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\it\System.Spatial.resources.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\ja\System.Spatial.resources.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\ko\System.Spatial.resources.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\ru\System.Spatial.resources.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\zh-Hans\System.Spatial.resources.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\bin\zh-Hant\System.Spatial.resources.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\obj\Debug\FurnitureStore.dll
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\obj\Debug\FurnitureStore.pdb
+C:\Dados\Sistemas .NET\FurnitureStore\FurnitureStore\obj\Debug\FurnitureStore.csprojResolveAssemblyReference.cache
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\FurnitureStore.dll.config
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\FurnitureStore.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\FurnitureStore.pdb
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\Antlr3.Runtime.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.AspNet.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.Core.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.OAuth.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.OpenId.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\EntityFramework.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\Microsoft.Data.Edm.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\Microsoft.Data.OData.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\Microsoft.Web.Infrastructure.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\Newtonsoft.Json.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\System.Spatial.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\System.Web.Helpers.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\System.Web.Http.OData.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\System.Web.Mvc.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\System.Web.Optimization.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\System.Web.Razor.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\System.Web.WebPages.Deployment.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\System.Web.WebPages.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\System.Web.WebPages.Razor.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\WebGrease.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\WebMatrix.Data.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\WebMatrix.WebData.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\EntityFramework.xml
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\Newtonsoft.Json.xml
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\System.Web.Helpers.xml
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\System.Web.Mvc.xml
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\System.Web.Razor.xml
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\System.Web.WebPages.xml
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\System.Web.WebPages.Deployment.xml
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\System.Web.WebPages.Razor.xml
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\WebMatrix.Data.xml
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\WebMatrix.WebData.xml
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.AspNet.xml
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.Core.xml
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.OAuth.xml
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.OpenId.xml
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\System.Web.Http.OData.xml
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\Microsoft.Data.Edm.xml
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\Microsoft.Data.OData.xml
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\System.Spatial.xml
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\de\Microsoft.Data.OData.resources.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\es\Microsoft.Data.OData.resources.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\it\Microsoft.Data.OData.resources.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\de\System.Spatial.resources.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\es\System.Spatial.resources.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\fr\System.Spatial.resources.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\it\System.Spatial.resources.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\ja\System.Spatial.resources.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\ko\System.Spatial.resources.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\ru\System.Spatial.resources.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\zh-Hans\System.Spatial.resources.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\bin\zh-Hant\System.Spatial.resources.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\obj\Debug\FurnitureStore.csprojResolveAssemblyReference.cache
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\obj\Debug\FurnitureStore.dll
+D:\Sistemas.NET\FurnitureStore\FurnitureStore\obj\Debug\FurnitureStore.pdb
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\FurnitureStore.dll.config
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\FurnitureStore.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\FurnitureStore.pdb
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\Antlr3.Runtime.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.AspNet.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.Core.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.OAuth.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.OpenId.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\EntityFramework.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\Microsoft.Data.Edm.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\Microsoft.Data.OData.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\Microsoft.Web.Infrastructure.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\Newtonsoft.Json.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Spatial.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.Helpers.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.Http.OData.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.Mvc.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.Optimization.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.Razor.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.WebPages.Deployment.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.WebPages.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.WebPages.Razor.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\WebGrease.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\WebMatrix.Data.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\WebMatrix.WebData.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\EntityFramework.xml
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\Newtonsoft.Json.xml
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.Helpers.xml
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.Mvc.xml
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.Razor.xml
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.WebPages.xml
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.WebPages.Deployment.xml
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.WebPages.Razor.xml
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\WebMatrix.Data.xml
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\WebMatrix.WebData.xml
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.AspNet.xml
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.Core.xml
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.OAuth.xml
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.OpenId.xml
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Web.Http.OData.xml
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\Microsoft.Data.Edm.xml
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\Microsoft.Data.OData.xml
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\System.Spatial.xml
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\de\Microsoft.Data.OData.resources.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\es\Microsoft.Data.OData.resources.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\it\Microsoft.Data.OData.resources.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\de\System.Spatial.resources.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\es\System.Spatial.resources.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\fr\System.Spatial.resources.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\it\System.Spatial.resources.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\ja\System.Spatial.resources.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\ko\System.Spatial.resources.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\ru\System.Spatial.resources.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\zh-Hans\System.Spatial.resources.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\bin\zh-Hant\System.Spatial.resources.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\obj\Debug\FurnitureStore.csprojResolveAssemblyReference.cache
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\obj\Debug\FurnitureStore.dll
+E:\Sistemas .NET\FurnitureStore\FurnitureStore\obj\Debug\FurnitureStore.pdb
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\FurnitureStore.dll.config
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\FurnitureStore.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\FurnitureStore.pdb
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\Antlr3.Runtime.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\CrystalDecisions.CrystalReports.Engine.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\CrystalDecisions.ReportSource.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\CrystalDecisions.Shared.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.AspNet.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.Core.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.OAuth.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.OpenId.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\EntityFramework.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\Microsoft.Data.Edm.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\Microsoft.Data.OData.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\Microsoft.Web.Infrastructure.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\Newtonsoft.Json.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\System.Net.Http.Formatting.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\System.Spatial.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\System.Web.Helpers.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\System.Web.Http.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\System.Web.Http.OData.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\System.Web.Http.WebHost.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\System.Web.Mvc.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\System.Web.Optimization.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\System.Web.Razor.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\System.Web.WebPages.Deployment.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\System.Web.WebPages.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\System.Web.WebPages.Razor.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\WebGrease.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\WebMatrix.Data.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\WebMatrix.WebData.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\stdole.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\EntityFramework.xml
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\Newtonsoft.Json.xml
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\System.Net.Http.Formatting.xml
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\System.Web.Helpers.xml
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\System.Web.Http.xml
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\System.Web.Http.WebHost.xml
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\System.Web.Mvc.xml
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\System.Web.Razor.xml
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\System.Web.WebPages.xml
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\System.Web.WebPages.Deployment.xml
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\System.Web.WebPages.Razor.xml
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\WebMatrix.Data.xml
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\WebMatrix.WebData.xml
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.AspNet.xml
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.Core.xml
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.OAuth.xml
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.OpenId.xml
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\System.Web.Http.OData.xml
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\Microsoft.Data.Edm.xml
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\Microsoft.Data.OData.xml
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\System.Spatial.xml
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\de\Microsoft.Data.OData.resources.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\es\Microsoft.Data.OData.resources.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\it\Microsoft.Data.OData.resources.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\de\System.Spatial.resources.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\es\System.Spatial.resources.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\fr\System.Spatial.resources.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\it\System.Spatial.resources.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\ja\System.Spatial.resources.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\ko\System.Spatial.resources.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\ru\System.Spatial.resources.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\zh-Hans\System.Spatial.resources.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\bin\zh-Hant\System.Spatial.resources.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\obj\Debug\FurnitureStore.csprojResolveAssemblyReference.cache
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\obj\Debug\FurnitureStore.dll
+E:\Desenvolvimento\FurnitureStore\FurnitureStore\obj\Debug\FurnitureStore.pdb

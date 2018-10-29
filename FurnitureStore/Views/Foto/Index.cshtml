@@ -1,0 +1,61 @@
+﻿@using FurnitureStore.Models
+@model IEnumerable<FurnitureStore.Models.Foto>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Fotos</h2>
+
+
+@using (Html.BeginForm("Index", "Foto", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Arquivo</legend>
+
+        <table>
+            <tr>
+                <td>
+                    <div id="divFileUpload">
+                        <input type="file" id="file1" name="file1" />
+                        <input type="submit" name="btnSalvarArquivo" value="Salvar Foto" />
+                    </div>
+                </td>
+            </tr>
+        </table>
+    </fieldset>
+}
+
+<table>
+    <tr>
+        <td>
+            <p>
+                @Html.ActionLink("Voltar para os Detalhes do Produto", "Details", "Produto", new { id = ViewData["IdProduto"] }, null)
+            </p>
+        </td>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                <img src="@Html.ImagemBase64(item.conteudo, item.tipo)" width="500"/>
+            </td>
+            <td>
+                @Html.ActionLink("Excluir", "Delete", new {id = item.id})
+            </td>
+        </tr>
+    }
+
+    <tr>
+        <td>
+            <p>
+                @Html.ActionLink("Voltar para os Detalhes do Produto", "Details", "Produto", new {id = ViewData["IdProduto"]}, null)
+            </p>
+        </td>
+    </tr>
+
+</table>

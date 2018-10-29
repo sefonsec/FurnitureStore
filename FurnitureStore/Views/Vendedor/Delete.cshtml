@@ -1,0 +1,21 @@
+﻿@model FurnitureStore.Models.Vendedor
+
+@{
+    Layout = "~/Views/Shared/_LayoutMenu.cshtml";
+}
+
+<h2>Exclusão</h2>
+
+<h3>Deseja Excluir este Vendedor?</h3>
+<fieldset>
+    <legend>Vendedor</legend>
+    
+    <div class="display-label">Nome: <strong>@Html.DisplayFor(model => model.nome)</strong></div>
+</fieldset>
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    <p>
+        <input type="submit" value="Excluir" /> |
+        @Html.ActionLink("Voltar", "Index")
+    </p>
+}

@@ -1,0 +1,97 @@
+﻿@model IEnumerable<FurnitureStore.Models.Pedido>
+
+@{
+    Layout = "~/Views/Shared/_LayoutMenu.cshtml";
+}
+
+<h2>Pedido</h2>
+
+<p>
+    @Html.ActionLink("Cadastrar", "Create")
+</p>
+
+<form action="@Url.Action("Index")" method="POST">   
+    <table>
+        <tr>
+            <th>
+                Vendedor
+            </th>
+            <th>
+                Cliente
+            </th>
+        </tr>
+        <tr>
+            <th>                
+                @Html.DropDownList("vendedor", new SelectList(ViewBag.vendedor), String.Empty)
+            </th>
+            <th>
+                @Html.DropDownList("cliente", new SelectList(ViewBag.cliente), String.Empty)
+            </th>
+            <th>
+                <input type="submit" name="Buscar" value="Buscar"/>
+            </th>
+            <th>
+                <input type="submit" name="Limpar" value="Limpar"/>
+            </th>
+        </tr>
+    </table>
+</form>
+
+<table>
+    <tr>
+        <th>
+            Vendedor
+        </th>
+        <th>
+            Cliente
+        </th>
+        <th>
+            Pagamento
+        </th>
+        <th>
+            Parcela
+        </th>
+        <th>
+            Data do Pedido
+        </th>
+        <th>
+            Entrada
+        </th>
+        <th>
+            Tipo
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Vendedor.nome)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Cliente.nome)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Pagamento.formaPagamento)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Parcela.numeroParcela)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.dataPedido)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.entrada)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.descricaoTipoPedido)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { id=item.id }) |
+            @Html.ActionLink("Detalhes", "Details", new { id=item.id }) |
+            @Html.ActionLink("Excluir", "Delete", new { id=item.id })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,12 @@
+﻿@using FurnitureStore.Models
+@if (Request.IsAuthenticated)
+{
+    <text>
+        Bem vindo, @Html.ActionLink(User.Identity.Name, "Register", "Account", routeValues: null, htmlAttributes: new { @class = "username", title = "Registrar" })!
+        @using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm" }))
+        {
+            @Html.AntiForgeryToken()
+            <a href="javascript:document.getElementById('logoutForm').submit()">Log off</a>
+        }
+    </text>
+}

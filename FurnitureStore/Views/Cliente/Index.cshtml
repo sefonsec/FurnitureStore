@@ -1,0 +1,109 @@
+﻿@model IEnumerable<FurnitureStore.Models.Cliente>
+
+@{
+    Layout = "~/Views/Shared/_LayoutMenu.cshtml";
+}
+
+<h2>Clientes</h2>
+
+<p>
+    @Html.ActionLink("Cadastrar", "Create")
+</p>
+           
+<form action="@Url.Action("Index")" method="POST">   
+    <table>
+        <tr>        
+            <th>                
+                Nome
+            </th>
+            <th>
+                Endereço
+            </th>
+            <th>
+                Nro
+            </th>
+            <th>
+                Bairro
+            </th>
+            <th>
+                Cidade
+            </th>
+        </tr>            
+        <tr>        
+            <th>                
+                @Html.TextBox("buscarNome", string.Empty, new {style = "width: 200px;"})
+            </th>
+            <th>
+                @Html.TextBox("buscarEndereco", string.Empty, new {style = "width: 200px;"})
+            </th>
+            <th>
+                @Html.TextBox("buscarNumero", string.Empty, new {style = "width: 50px;"})
+            </th>
+            <th>
+                @Html.TextBox("buscarBairro", string.Empty, new {style = "width: 150px;"})
+            </th>
+            <th>
+                @Html.TextBox("buscarCidade", string.Empty, new {style = "width: 150px;"})
+            </th>  
+            <th>
+                <input type="submit" name="Buscar" value="Buscar"/>
+            </th>
+            <th>
+                <input type="submit" name="Limpar" value="Limpar"/>
+            </th>
+        </tr>    
+    </table>        
+</form> 
+
+<table>    
+    <tr> 
+        <th>
+            Nome
+        </th>
+        <th>
+            Endereço
+        </th>
+        <th>
+            Nro
+        </th>
+        <th>
+            Bairro
+        </th>
+        <th>
+            Cidade
+        </th>
+        <th>
+            UF
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.endereco)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.numero)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.bairro)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.cidade)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.uf)
+            </td>
+            <td>
+                @Html.ActionLink("Editar", "Edit", new { id=item.Id }) |
+                @Html.ActionLink("Detalhes", "Details", new { id=item.Id }) |
+                @Html.ActionLink("Excluir", "Delete", new { id=item.Id })
+            </td>
+        </tr>
+    }
+
+</table>

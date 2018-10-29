@@ -1,0 +1,17 @@
+﻿@model FurnitureStore.Models.Pagamento
+
+@{
+    Layout = "~/Views/Shared/_LayoutMenu.cshtml";
+}
+
+<h2>Detalhes</h2>
+
+<fieldset>
+    <legend>Forma de Pagamento</legend>
+
+    <div class="display-label"><strong>Forma de Pagamento:</strong> @Html.DisplayFor(model => model.formaPagamento)</div>
+</fieldset>
+<p>
+    @Html.ActionLink("Editar", "Edit", new { id=Model.id }) |
+    @Html.ActionLink("Voltar", "Index")
+</p>

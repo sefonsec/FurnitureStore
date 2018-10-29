@@ -1,0 +1,15 @@
+﻿@model FurnitureStore.Models.Foto
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h3>Deseja realmente excluir a Foto selecionada?</h3>
+
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    <p>
+        <input type="submit" value="Excluir" /> |
+        @Html.ActionLink("Voltar", "Index", new { id = Model.produtoID })
+    </p>
+}

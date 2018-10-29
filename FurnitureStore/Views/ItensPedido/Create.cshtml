@@ -1,0 +1,84 @@
+﻿@model FurnitureStore.Models.ItensPedido
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Itens do Pedido</h2>
+<br/>
+
+@Scripts.Render("~/Scripts/jquery.validate.min.js")
+@Scripts.Render("~/Scripts/jquery.validate.unobtrusive.min.js")
+@Scripts.Render("~/Scripts/jquery-1.8.2.js")
+
+<script type="text/javascript">
+
+    $(function () {
+
+        $("#produtoID").change(function () {
+            var option = $(this).find(":selected");
+
+            $.getJSON("@Url.Action("CarregaDadosProduto", "ItensPedido")/" + option.val(), function (dados) {
+                $("#qtdeProduto").val(dados.qtde);
+                $("#valorTotalProduto").val(dados.valorUnitario);
+            });
+        });
+
+    })   
+
+</script>
+
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Inclusão de Itens</legend>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.pedidoID, "Pedido")            
+        </div>
+        <div class="editor-field">
+            @ViewData["IdPedido"]
+            @Html.TextBox("pedidoID", ViewData["IdPedido"], new { style = "display:none;" })                         
+            @Html.ValidationMessageFor(model => model.pedidoID)              
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.produtoID, "Produto")
+        </div>
+        <div class="editor-field">
+            @Html.DropDownList("produtoID", String.Empty)
+            @Html.ValidationMessageFor(model => model.produtoID)                        
+        </div>
+        
+        <div class="editor-label">
+            @Html.LabelFor(model => model.qtdeProduto)
+        </div>
+        <div class="editor-field">
+            @Html.TextBoxFor(model => model.qtdeProduto)
+            @Html.ValidationMessageFor(model => model.qtdeProduto)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.valorTotalProduto)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.valorTotalProduto)
+            @Html.ValidationMessageFor(model => model.valorTotalProduto)
+        </div>
+
+        <p>
+            <input type="submit" value="Salvar" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Voltar para o Pedido", "Details", "Pedido", new { id = ViewData["IdPedido"] }, null)
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/bundles/validations_pt-br")
+}

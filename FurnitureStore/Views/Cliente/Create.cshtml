@@ -1,0 +1,176 @@
+﻿@model FurnitureStore.Models.Cliente
+
+@{
+    Layout = "~/Views/Shared/_LayoutMenu.cshtml";
+}
+
+<h2>Cadastrar</h2>
+
+@Scripts.Render("~/Scripts/jquery.validate.min.js")
+@Scripts.Render("~/Scripts/jquery.validate.unobtrusive.min.js")
+@Scripts.Render("~/Scripts/jquery.maskedinput.js")
+
+<script type="text/javascript">
+    
+    jQuery(function ($) {
+        $("#rg").mask("99.999.999-9");
+    });
+
+    jQuery(function ($) {
+        $("#cpf").mask("999.999.999-99");
+    });
+
+    jQuery(function($) {
+        $("#cep").mask("99.999-999");
+    });
+    
+</script>
+
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Cliente</legend>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.dataCadastro)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.dataCadastro)
+            @Html.ValidationMessageFor(model => model.dataCadastro)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.nome)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.nome)
+            @Html.ValidationMessageFor(model => model.nome)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.rg)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.rg)
+            @Html.ValidationMessageFor(model => model.rg)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.cpf)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.cpf)
+            @Html.ValidationMessageFor(model => model.cpf)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.dataNasc)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.dataNasc)
+            @Html.ValidationMessageFor(model => model.dataNasc)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.endereco)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.endereco)
+            @Html.ValidationMessageFor(model => model.endereco)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.numero)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.numero)
+            @Html.ValidationMessageFor(model => model.numero)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.complemento)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.complemento)
+            @Html.ValidationMessageFor(model => model.complemento)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.bairro)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.bairro)
+            @Html.ValidationMessageFor(model => model.bairro)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.cidade)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.cidade)
+            @Html.ValidationMessageFor(model => model.cidade)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.uf)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.uf)
+            @Html.ValidationMessageFor(model => model.uf)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.cep)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.cep)
+            @Html.ValidationMessageFor(model => model.cep)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.nomeBanco)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.nomeBanco)
+            @Html.ValidationMessageFor(model => model.nomeBanco)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.agencia)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.agencia)
+            @Html.ValidationMessageFor(model => model.agencia)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.contaCorrente)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.contaCorrente)
+            @Html.ValidationMessageFor(model => model.contaCorrente)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.dataClienteDesde)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.dataClienteDesde)
+            @Html.ValidationMessageFor(model => model.dataClienteDesde)
+        </div>
+
+        <p>
+            <input type="submit" value="Salvar" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Voltar", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

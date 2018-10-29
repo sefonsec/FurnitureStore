@@ -1,0 +1,33 @@
+﻿@model IEnumerable<FurnitureStore.Models.Parcela>
+
+@{
+    Layout = "~/Views/Shared/_LayoutMenu.cshtml";
+}
+
+<h2>Parcelas</h2>
+
+<p>
+    @Html.ActionLink("Cadastrar", "Create")
+</p>
+<table>
+    <tr>
+        <th>
+            Número de Parcelas
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.numeroParcela)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { id=item.id }) |
+            @Html.ActionLink("Detalhes", "Details", new { id=item.id }) |
+            @Html.ActionLink("Excluir", "Delete", new { id=item.id })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,24 @@
+﻿@model FurnitureStore.Models.ItensPedido
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Exclusão</h2>
+
+<h3>Deseja Excluir este ítem do Pedido?</h3>
+<fieldset>
+    <legend>Itens do Pedido</legend>
+    
+    <div class="display-label"><strong>Pedido: </strong>@Html.DisplayFor(model => model.Pedido.id)</div>
+    <div class="display-label"><strong>Produto: </strong>@Html.DisplayFor(model => model.Produto.descricao)</div>
+
+</fieldset>
+
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    <p>
+        <input type="submit" value="Excluir" /> |
+        @Html.ActionLink("Voltar", "Index", new { id = Model.pedidoID })
+    </p>
+}
